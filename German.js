@@ -1,9 +1,3 @@
-langpack = {};
-langpack.hue = {};
-langpack.message = {};
-langpack.notification = {};
-
-
 langpack.message.devbuild = "Dieser Server benutzt eine Vorabversion von OpenAudioMC! Gewisse funktionen können manchmal nicht funktionieren.";
 langpack.message.welcome = "Verbunden als %name%! Willkommen!";
 langpack.message.notconnected = "Du bist nicht mit dem Server verbunden...";
