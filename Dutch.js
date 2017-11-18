@@ -1,10 +1,3 @@
-langpack = {};
-langpack.hue = {};
-langpack.message = {};
-langpack.notification = {};
-
-
-
 langpack.message.welcome = "Verbonden als %name%! Welkom!";
 langpack.message.notconnected = "Je bent niet in de server.";
 langpack.message.server_is_offline = "Server is offline.";
