@@ -1,10 +1,3 @@
-langpack = {};
-langpack.hue = {};
-langpack.message = {};
-langpack.notification = {};
-
-
-
 langpack.message.welcome = "Connecté a %name%! Bienvenue!";
 langpack.message.notconnected = "Vous n'êtes pas connecté au serveur...";
 langpack.message.server_is_offline = "Serveur Hors-Ligne.";
