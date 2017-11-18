@@ -1,10 +1,3 @@
-langpack = {};
-langpack.hue = {};
-langpack.message = {};
-langpack.notification = {};
-
-
-
 langpack.message.welcome = "%name% として接続しました,ようこそ!";
 langpack.message.notconnected = "サーバに接続されていません。";
 langpack.message.server_is_offline = "サーバはオフラインです(堕ちています)。";
