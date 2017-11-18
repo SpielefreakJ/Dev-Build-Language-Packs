@@ -45,3 +45,7 @@ langpack.settings.color_success = 'Primary and Secondary colors are set.';
 langpack.settings.primarycolor_rejected = 'Primary Color must be selected.';
 langpack.settings.secondarycolor_rejected = 'Secondary Color must be selected.';
 langpack.settings.secondarycolor_rejected_match_primary = "Primary and Secondary colors can't be the same.";
+langpack.settings.backgroundColor = 'Note that if you are prone to getting seizures easily, we recommend Random Color as it only uses one color';
+langpack.settings.backgroundColor_rejected = 'Rainbow or Random Color must be selected.';
+langpack.settings.backgroundColor_Rainbow = 'Background Color set to Rainbow.';
+langpack.settings.backgroundColor_Random_Color = 'Background Color set to Random Color.';
