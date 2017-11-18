@@ -1,9 +1,3 @@
-langpack = {};
-langpack.hue = {};
-langpack.message = {};
-langpack.notification = {};
-langpack.settings = {};
-
 langpack.message.devbuild = "This server is using a Development Build! Some functions may or may not work.";
 langpack.message.welcome = "Connected as %name%! Welcome!";
 langpack.message.notconnected = "You're not connected to the server...";
