@@ -2,7 +2,7 @@ langpack = {};
 langpack.hue = {};
 langpack.message = {};
 langpack.notification = {};
-
+langpack.settings = {};
 
 langpack.message.devbuild = "This server is using a Development Build! Some functions may or may not work.";
 langpack.message.welcome = "Connected as %name%! Welcome!";
@@ -37,3 +37,17 @@ langpack.hue.direct_ip_lookup = "<h2>Attempting to connect to bridge IP %ip%...<
 langpack.hue.direct_ip_lookup_success = "<h2>Found bridge IP %ip%</h2><h3>Connecting...</h3>";
 langpack.hue.direct_ip_lookup_failed = "<h2>Failed to connect to bridge IP %ip%...</h2>";
 langpack.hue.light_data_fail = "<h2>Unable to retrieve Light Data.</h2><h3>Press <b>F5</b> to refresh</h3>";
+
+langpack.settings.bgimage = 'Type "Default" to use the default background image (if set)';
+langpack.settings.bgimage_rejected = 'URL field cannot be empty';
+langpack.settings.bgimage_default = 'Background image has been reset to default.';
+langpack.settings.bgimage_success = 'Background image has been set.';
+langpack.settings.language = 'Note that JS addons may not support language changes.';
+langpack.settings.language_rejected = 'Language must be selected.';
+langpack.settings.language_default = 'Language reset to default language, %lang%.';
+langpack.settings.language_success = 'Language set to %lang%.';
+langpack.settings.color_default = 'Default Primary and Secondary colors set.';
+langpack.settings.color_success = 'Primary and Secondary colors are set.';
+langpack.settings.primarycolor_rejected = 'Primary Color must be selected.';
+langpack.settings.secondarycolor_rejected = 'Secondary Color must be selected.';
+langpack.settings.secondarycolor_rejected_match_primary = "Primary and Secondary colors can't be the same.";
